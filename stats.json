@@ -13,8 +13,8 @@
       "component---src-templates-without-playground-js-8841a2159d7471f3af5a.js.map"
     ],
     "path---getting-started-standalone": [
-      "path---getting-started-standalone-3ada17a95c1cc054032d.js",
-      "path---getting-started-standalone-3ada17a95c1cc054032d.js.map"
+      "path---getting-started-standalone-d8fe67c5206e91b74b6f.js",
+      "path---getting-started-standalone-d8fe67c5206e91b74b6f.js.map"
     ],
     "path---docs-margins-paddings-borders": [
       "path---docs-margins-paddings-borders-914c8bc69fcec6df6d9d.js",
@@ -33,8 +33,8 @@
       "path---docs-aspect-ratio-0dcd0bb2fc5ef9587959.js.map"
     ],
     "path---docs": [
-      "path---docs-bb4093565ee30b6da21c.js",
-      "path---docs-bb4093565ee30b6da21c.js.map"
+      "path---docs-64426fb52cbfd721b2f4.js",
+      "path---docs-64426fb52cbfd721b2f4.js.map"
     ],
     "path---index": [
       "path---index-a0e39f21c11f6a62c5ab.js",
@@ -95,9 +95,9 @@
       "path---contributing-opening-a-pull-request-910bf628a0951242b04d.js.map"
     ],
     "app": [
-      "app-69198cb7637b49453250.js",
+      "app-18c03dc1338e6af93bff.js",
       "build-js-styles.css",
-      "app-69198cb7637b49453250.js.map",
+      "app-18c03dc1338e6af93bff.js.map",
       "build-js-styles.css.map"
     ],
     "path---docs-justify-content": [
